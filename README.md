@@ -32,8 +32,8 @@ Hi there, my name is Konstantin, I am a thechnical architect of IT infrastructur
 🚧 **My future tasks:**
 <!-- TODO-IST:START -->
 * [x] Tuning self profile on Github
-* [ ] Take a Git course on Slurm
-* [ ] Create my first project on Github       
+* [x] Take a Git course on Slurm
+* [x] Create my first project on Github       
 <!-- TODO-IST:END -->
 
 <!--
