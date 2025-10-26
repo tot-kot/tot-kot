@@ -1,6 +1,6 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi there, my name is Konstantin, I am a thechnical architect of IT infrastructure. Now I'm exploring the DevOps universe.
+Hi there, my name is Konstantin, I am a technical architect of IT infrastructure with 16 years experience. Now I'm exploring the DevOps universe.
 
 <a href="https://twitter.com/kolesnikov_kot">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
